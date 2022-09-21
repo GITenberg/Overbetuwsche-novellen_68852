@@ -1,0 +1,31 @@
+_repo: Overbetuwsche-novellen_68852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cremer, Jacobus Jan
+    aliases:
+    - Cremer, J.J.
+    - Cremer, J. J. (Jacobus Jan)
+    birthdate: 1827
+    deathdate: 1880
+    gutenberg_agent_id: '31093'
+    url: http://www.gutenberg.org/2009/agents/31093
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_Jan_Cremer
+description: ''
+gutenberg_issued: '2022-08-27'
+identifiers:
+  gutenberg: '68852'
+language: nl
+pgterms:marc905: 20060228145247cremer
+pgterms:marc906: '1888'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: Netherlands :A.W. Sijthoff's Uitgeversmaatschappij.,1888.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Overbetuwsche novellen
+url: http://www.gutenberg.org/ebooks/68852
